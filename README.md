@@ -9,7 +9,7 @@
 <a href="mailto:breimerct@gmail.com" rel="correo">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/breimerct/" rel="correo">![Linkein](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-## 📖Algunas herramientas/tecnologías que he utilizado y aprendido
+## 📖Algunas herramientas & tecnologías que he utilizado y aprendido
 
 #### Frontend:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
